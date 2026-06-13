@@ -1,5 +1,8 @@
 # Pick-and-Place using X330 Manipulator
 
+
+
+
 ## 1. 프로젝트 소개
 
 본 프로젝트는 ROS 환경에서 OpenManipulator 기반 로봇 매니퓰레이터를 이용하여  
